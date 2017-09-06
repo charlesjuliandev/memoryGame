@@ -1,0 +1,37 @@
+/* COLORS */
+
+@lightGrey: rgb(218, 218, 218);
+@green: rgb(66, 141, 65);
+
+html{
+	font-size: 10px;
+}
+
+
+.game_wrapper{
+	display: flex;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+}
+
+#memory_board{
+	background:@lightGrey;
+	border:#999 1px solid;
+	width: 800px;
+	height: 540px;
+	padding: 24px;
+	margin: 0px auto;
+	> div{
+		background: @green;
+		border: #000 1px solid;
+		width: 71px;
+		height: 71px;
+		float: left;
+		margin: 10px;
+		padding: 20px;
+		font-size: 64px;
+		cursor: pointer;
+		text-align: center;
+	}
+}
