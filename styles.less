@@ -2,26 +2,34 @@
 
 @lightGrey: rgb(218, 218, 218);
 @green: rgb(66, 141, 65);
+@white: rgb(255, 255, 255);
+
+.displayNone(){
+	display: none !important;
+}
 
 html{
 	font-size: 10px;
 }
 
+.displayNone{
+	.displayNone();
+}
+
 
 .game_wrapper{
-	display: flex;
 	height: 100vh;
-	align-items: center;
-	justify-content: center;
 }
 
 #memory_board{
-	background:@lightGrey;
+	// background:@lightGrey;
 	border:#999 1px solid;
 	width: 800px;
-	height: 540px;
 	padding: 24px;
 	margin: 0px auto;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
 	> div{
 		background: @green;
 		border: #000 1px solid;
@@ -29,12 +37,36 @@ html{
 		height: 250px;
 		float: left;
 		margin: 10px;
-		padding: 20px;
-		font-size: 64px;
+		padding: 0px;
+		font-size: 16px;
 		cursor: pointer;
 		text-align: center;
 		list-style-type: none;
 		background-repeat: no-repeat;
-		background-position: center; 
+		background-position: center;
+		display: flex;
+		align-items: flex-end;
+		justify-content: center;
+		color: @white;
+		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 	}
+}
+.bio_wrapper{
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	align-items: center;
+	background-color: white;
+	.tile_bio{
+		max-width: 60vw;
+	}
+}
+.close{
+	position: relative;
+	right: 0;
+	top: -10rem;
 }
