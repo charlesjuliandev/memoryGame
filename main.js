@@ -416,13 +416,28 @@ function isGameOver(check) {
   
 }
 
+function startNewGame(){
+	
+	console.log("sng")
+	document.querySelector('.play_again').addEventListener('click', function(e){
+		e.preventDefault();
+		console.log("clicked")
+		document.getElementById('memory_board').innerHTML = "";
+
+		document.getElementsByClassName('you_win')[0].classList.add('displayNone');
+		newBoard();
+
+	})
+	newBoard();
+}
+
 function gameIsOver() {
   // alert("Board cleared... generating new board");
-  var play_again = confirm ("You Won Play Again?")
-  document.getElementById('memory_board').innerHTML = "";
-  console.log("done")
-
-  newBoard();
+  // var play_again = confirm ("You Won Play Again?")
+  var you_win = document.getElementsByClassName('you_win');
+  console.log(you_win[0].classList.remove('displayNone'))
+  
+  startNewGame();
 }
 
 function cardsDoNotMatch() {
@@ -473,7 +488,7 @@ function memoryFlipTile(tile, value, image) {
       setCardAsFlipped(tile, value);
       if(isThereIsAMatch()) {
         matchCards(tile, value);
-        
+
       } else {
   			cardsDoNotMatch();
       }
