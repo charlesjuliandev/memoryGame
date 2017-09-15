@@ -3,72 +3,84 @@ var memory_array_men = [
 	{
 		"title": "James Baldwin",
 		"image": "./images/jamesbaldwin.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "James Baldwin",
 		"image": "./images/jamesbaldwin.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "Langston Hughes",
 		"image": "./images/langstonhughes.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Langston Hughes",
 		"image": "./images/langstonhughes.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Jack Johnson",
 		"image": "./images/jackjohnson.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "Jack Johnson",
 		"image": "./images/jackjohnson.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "W.E.B. Dubois",
 		"image": "./images/webdubois.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "W.E.B. Dubois",
 		"image": "./images/webdubois.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
 		"image": "./images/toussaintlouverture.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
 		"image": "./images/toussaintlouverture.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Benjamin Banneker",
 		"image": "./images/benjaminbanneker.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
 	{
 		"title": "Benjamin Banneker",
 		"image": "./images/benjaminbanneker.jpg",
+		"cardFront": "./images/card-front.jpg",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
@@ -78,101 +90,125 @@ var memory_array_men2 = [
 	
 	{
 		"title": "Marcus Garvey",
-		"image": "./images/marcusgarvey.jpg"
+		"image": "./images/marcusgarvey.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Marcus Garvey",
-		"image": "./images/marcusgarvey.jpg"
+		"image": "./images/marcusgarvey.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "./images/robertsmalls.jpg"
+		"image": "./images/robertsmalls.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "./images/robertsmalls.jpg"
+		"image": "./images/robertsmalls.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "./images/georgewashintoncarver.jpg"
+		"image": "./images/georgewashintoncarver.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "./images/georgewashintoncarver.jpg"
+		"image": "./images/georgewashintoncarver.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "./images/frederickdouglass.jpg"
+		"image": "./images/frederickdouglass.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "./images/frederickdouglass.jpg"
+		"image": "./images/frederickdouglass.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "./images/crispusattucks.jpg"
+		"image": "./images/crispusattucks.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "./images/crispusattucks.jpg"
+		"image": "./images/crispusattucks.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "./images/cartergwoodson.jpg"
+		"image": "./images/cartergwoodson.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "./images/cartergwoodson.jpg"
+		"image": "./images/cartergwoodson.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 ]
 var memory_array_women = [
 	{
 		"title": "Madam CJ Walker",
-		"image": "./images/madamcjwalker.jpg"
+		"image": "./images/madamcjwalker.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Madam CJ Walker",
-		"image": "./images/madamcjwalker.jpg"
+		"image": "./images/madamcjwalker.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "./images/sojournertruth.jpg"
+		"image": "./images/sojournertruth.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "./images/sojournertruth.jpg"
+		"image": "./images/sojournertruth.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "./images/maryannshaddcary.jpg"
+		"image": "./images/maryannshaddcary.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "./images/maryannshaddcary.jpg"
+		"image": "./images/maryannshaddcary.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "./images/zoranealhurston.jpg"
+		"image": "./images/zoranealhurston.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "./images/zoranealhurston.jpg"
+		"image": "./images/zoranealhurston.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "./images/shirleychisholm.jpg"
+		"image": "./images/shirleychisholm.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "./images/shirleychisholm.jpg"
+		"image": "./images/shirleychisholm.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "./images/bessiecoleman.jpg"
+		"image": "./images/bessiecoleman.jpg",
+		"cardFront": "./images/card-front.jpg"
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "./images/bessiecoleman.jpg"
+		"image": "./images/bessiecoleman.jpg",
+		"cardFront": "./images/card-front.jpg"
 	}
 ];
 
@@ -180,50 +216,62 @@ var memory_array_women2 = [
 	
 	{
 		"title": "Kathleen Cleaver",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/kathleencleaver.jpg"
 	},
 	{
 		"title": "Kathleen Cleaver",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/kathleencleaver.jpg"
 	},
 	{
 		"title": "Angela Davis",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/angeladavis.jpg"
 	},
 	{
 		"title": "Angela Davis",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/angeladavis.jpg"
 	},
 	{
 		"title": "Katherine Johnson",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/katherinejohnson.jpg"
 	},
 	{
 		"title": "Katherine Johnson",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/katherinejohnson.jpg"
 	},
 	{
 		"title": "Henrietta Lacks",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/henriettalacks.jpg"
 	},
 	{
 		"title": "Henrietta Lacks",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/henriettalacks.jpg"
 	},
 	{
 		"title": "Harriet Tubman",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/harriettubman.jpg"
 	},
 	{
 		"title": "Harriet Tubman",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/harriettubman.jpg"
 	},
 	{
 		"title": "Ida B Wells",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/idabwells.jpg"
 	},
 	{
 		"title": "Ida B Wells",
+		"cardFront": "./images/card-front.jpg",
 		"image": "./images/idabwells.jpg"
 	}
 ]
@@ -233,19 +281,57 @@ var memory_values = [];
 var memory_tile_ids = [];
 var tiles_flipped = 0;
 
-var memory_array;
+var card_array = [memory_array_men, memory_array_men2, memory_array_women, memory_array_women2];
+
+card_array = _.shuffle(card_array);
+var memory_array = card_array[0]
+
 
 function newBoard() {
 	tiles_flipped = 0;
-  (typeof memory_array === "undefined") ? memory_array = _.shuffle(memory_array_men) : memory_array = _.shuffle(memory_array_women) ;
-  console.log(memory_array)
+  memory_array = _.shuffle(memory_array);
+
   var output = '';
   _.each(memory_array, function(memory_array_value, index) {
-    output += '<div id="tile_'+ index +'" data-img='+ memory_array_value.image + '  data-link='+ memory_array_value.link + ' data-bio="'+ memory_array_value.bio +'"  onclick="memoryFlipTile(this,\''+ memory_array_value.title +'\')"></div>';
+    output += '<div id="tile_'+ index +'" data-cardFront='+ memory_array_value.cardFront + ' data-img='+ memory_array_value.image + '  data-link='+ memory_array_value.link + ' data-bio="'+ memory_array_value.bio +'"  onclick="memoryFlipTile(this,\''+ memory_array_value.title +'\')" class="card"></div>';
+    var cardFront = output[index];
   });
 
 	document.getElementById('memory_board').innerHTML = output;
+	var cardFront = document.getElementsByClassName('card')
+	_.each(cardFront, function(value_cardFront, index_cardFront){
+		var cardFrontImage = value_cardFront.getAttribute('data-cardFront')
+		value_cardFront.style.backgroundImage = "url('"+ cardFrontImage+"')"
+
+	})
+	// console.log(cardFront);
 }
+
+function ready(fn) {
+	  if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+	    fn();
+	  } else {
+	    document.addEventListener('DOMContentLoaded', fn);
+	  }
+	}
+
+ready(function(){
+	var startGame = function(){
+	// console.log(document.getElementsByClassName('start_button'))
+	var start_button = document.getElementsByClassName('start_button')[0]
+	// start_button.removeEventListener('click', function(){});
+	start_button.addEventListener('click', function(e){
+		e.preventDefault();
+		document.querySelector('.game_intro').classList.add('slide_up');
+		document.querySelector('.game_wrapper').classList.remove('displayNone');
+		newBoard();
+	})
+
+}
+
+startGame()
+})
+
 
 function canFlipCard(tile) {
   return tile.innerHTML == "" && memory_values.length < 2;
@@ -291,19 +377,48 @@ function showBio(tile, value){
 function closeBio(){
 	document.querySelector('.close').addEventListener('click', function(e){
 		document.querySelector('.bio_wrapper').classList.add('displayNone');
+		var cards = document.getElementsByClassName('card');
+		for(var i = 0; i < cards.length; i++){
+			if(tiles_flipped == memory_array.length ){
+				isGameOver(true);
+			} else {
+				isGameOver(false);
+			}
+
+		}		
+
 	});
 
 }
 
 
 
-function isGameOver() {
+function isGameOver(check) {
   // Check to see if the whole board is cleared
-  return tiles_flipped == memory_array.length;
+  if (check == true) {
+  	gameIsOver();
+
+  } else {
+  	return false
+  }
+  // var bio_wrapper = document.querySelector('.bio_wrapper');
+  // // var cards = document.getElementsByClassName('card')
+  // // for(var i = 0; i < cards.length; i++){
+  // // 	if(cards[i].classList.contains('flipped') && tiles_flipped == memory_array.length ){
+  // 		if(bio_wrapper.classList.contains('displayNone')){
+  // 			if (tiles_flipped == memory_array.length) {
+  // 				return true;	
+  // 			}
+  			
+  // 		}
+  // // 	}
+  // // }
+  
 }
 
 function gameIsOver() {
-  alert("Board cleared... generating new board");
+  // alert("Board cleared... generating new board");
+  var play_again = confirm ("You Won Play Again?")
   document.getElementById('memory_board').innerHTML = "";
   console.log("done")
 
@@ -321,21 +436,27 @@ function flipCard(tile, value) {
 	text_elem.textContent = value;
 
   // tile.style.background = '#FFF';
-  tile.style.backgroundImage = "url('"+ image+"')"
+  tile.style.backgroundImage = "url('"+ image+"')";
   // tile.innerHTML = value;
+  tile.classList.add('flipped');
   tile.appendChild(text_elem)
   
 
 }
 
-function flipCardBack() {
+function flipCardBack(tile, value) {
   // Flip the 2 tiles back over
   var tile_1 = document.getElementById(memory_tile_ids[0]);
   var tile_2 = document.getElementById(memory_tile_ids[1]);
-  tile_1.style.background = '#FF3399';
+
+  var cardFrontImage = tile_1.getAttribute('data-cardFront')  
+
+  tile_1.style.backgroundImage = "url('"+ cardFrontImage +"')"
   tile_1.innerHTML = "";
-  tile_2.style.background = '#FF3399';
+  tile_2.style.backgroundImage = "url('"+ cardFrontImage +"')"
   tile_2.innerHTML = "";
+  tile_1.classList.remove('flipped');
+  tile_2.classList.remove('flipped');
 
   // Clear both arrays
   memory_values = [];
@@ -352,9 +473,7 @@ function memoryFlipTile(tile, value, image) {
       setCardAsFlipped(tile, value);
       if(isThereIsAMatch()) {
         matchCards(tile, value);
-        if (isGameOver()) {
-          gameIsOver();
-        }
+        
       } else {
   			cardsDoNotMatch();
       }

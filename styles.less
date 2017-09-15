@@ -4,6 +4,24 @@
 @green: rgb(66, 141, 65);
 @white: rgb(255, 255, 255);
 
+.keyframes(@name; @args) {
+	@-moz-keyframes @name { @args(); }
+	@-webkit-keyframes @name { @args(); }
+	@keyframes @name { @args(); }
+}
+
+.animation(@args) {
+	-webkit-animation: @args;
+	-moz-animation: @args;
+	animation: @args;
+}
+
+
+.keyframes(slideUp; {
+	from{ transform: translateY(0); overflow: hidden; }        
+	to{ overflow: hidden; height: 0; transform: translateY(-100vh);}
+});
+
 .displayNone(){
 	display: none !important;
 }
@@ -15,6 +33,56 @@ html{
 .displayNone{
 	.displayNone();
 }
+
+.game_intro{
+	height: 100vh;
+}
+
+.game_intro.slide_up{
+	.animation(slideUp 2s forwards);
+
+}
+
+.start_overlay{
+   		display: flex;
+   		height: 100%;
+   		.overlay_block{
+   			width: 100%;
+   			height: auto;
+   			margin: auto;
+   			text-align: center;
+   			color: black;
+   			.overlay_game_title{
+   				// font-family: @fontFamilySatisfy;
+   				font-size: 8rem;
+   				margin-bottom: 2rem;
+   			}
+   			.overlay_text_block{
+   				margin-bottom: 3rem;
+   				.overlay_text{
+   					// font-family: @fontFamilyOswalt;
+   					font-size: 5rem;
+   				}	
+   			}
+   			
+   			.start_button{
+   				background-color: orange;
+   				padding: 1rem;
+   				width: 50%;
+   				margin: 0 auto;
+   				border: 1px solid grey;
+   				border-radius: 2rem;
+   				transition: background-color .25s;
+   				cursor: pointer;
+   				span{
+   					text-transform: uppercase;
+   				}
+   				&:hover{
+					background-color: red;
+   				}
+   			}
+   		}
+   	}
 
 
 .game_wrapper{
@@ -49,6 +117,7 @@ html{
 		justify-content: center;
 		color: @white;
 		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+		backface-visibility: hidden;
 	}
 }
 .bio_wrapper{
