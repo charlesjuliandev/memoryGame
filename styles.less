@@ -1,4 +1,4 @@
-/* COLORS */
+
 
 @lightGrey: rgb(218, 218, 218);
 @green: rgb(66, 141, 65);
@@ -20,7 +20,7 @@
 .keyframes(slideUp; {
 	from{ transform: translateY(0); overflow: hidden; }        
 	to{ overflow: hidden; height: 0; transform: translateY(-100vh);}
-});
+	});
 
 .displayNone(){
 	display: none !important;
@@ -44,45 +44,45 @@ html{
 }
 
 .start_overlay{
-   		display: flex;
-   		height: 100%;
-   		.overlay_block{
-   			width: 100%;
-   			height: auto;
-   			margin: auto;
-   			text-align: center;
-   			color: black;
-   			.overlay_game_title{
-   				// font-family: @fontFamilySatisfy;
-   				font-size: 8rem;
-   				margin-bottom: 2rem;
-   			}
-   			.overlay_text_block{
-   				margin-bottom: 3rem;
-   				.overlay_text{
-   					// font-family: @fontFamilyOswalt;
-   					font-size: 5rem;
-   				}	
-   			}
-   			
-   			.start_button{
-   				background-color: orange;
-   				padding: 1rem;
-   				width: 50%;
-   				margin: 0 auto;
-   				border: 1px solid grey;
-   				border-radius: 2rem;
-   				transition: background-color .25s;
-   				cursor: pointer;
-   				span{
-   					text-transform: uppercase;
-   				}
-   				&:hover{
-					background-color: red;
-   				}
-   			}
-   		}
-   	}
+	display: flex;
+	height: 100%;
+	.overlay_block{
+		width: 100%;
+		height: auto;
+		margin: auto;
+		text-align: center;
+		color: black;
+		.overlay_game_title{
+
+			font-size: 8rem;
+			margin-bottom: 2rem;
+		}
+		.overlay_text_block{
+			margin-bottom: 3rem;
+			.overlay_text{
+
+				font-size: 5rem;
+			}	
+		}
+
+		.start_button{
+			background-color: orange;
+			padding: 1rem;
+			width: 50%;
+			margin: 0 auto;
+			border: 1px solid grey;
+			border-radius: 2rem;
+			transition: background-color .25s;
+			cursor: pointer;
+			span{
+				text-transform: uppercase;
+			}
+			&:hover{
+				background-color: red;
+			}
+		}
+	}
+}
 
 
 .game_wrapper{
@@ -90,7 +90,7 @@ html{
 }
 
 #memory_board{
-	// background:@lightGrey;
+
 	border:#999 1px solid;
 	width: 800px;
 	padding: 24px;
@@ -138,6 +138,49 @@ html{
 	position: relative;
 	right: 0;
 	top: -10rem;
+}
+
+/* entire container, keeps perspective */
+.card-container {
+	perspective: 1000px;
+}
+/* flip the pane when hovered */
+.card-container:hover .flipper, .card-container.hover .flipper {
+	transform: rotateY(180deg);
+}
+
+.card-container, .front, .back {
+	width: 320px;
+	height: 480px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
 }
 
 

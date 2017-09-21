@@ -3,6 +3,9 @@
 $lightGrey: rgb(218, 218, 218);
 $green: rgb(66, 141, 65);
 $white: rgb(255, 255, 255);
+$orange: rgb(255, 127, 0);
+$orangeAlpha70: rgba(255, 127, 0, 0.7);
+$orangeDark: rgb(153, 102, 0);
 
 // @mixin keyframes($name; $args) {
 // 	@-moz-keyframes $name { $args(); }
@@ -96,22 +99,7 @@ $box-shadow2: ();
       height: 100%;
       align-items: center;
       justify-content: center;
-      .play_again{
-          background-color: orange;
-          padding: 1rem;
-          width: 50%;
-          margin: 0 auto;
-          border: 1px solid grey;
-          border-radius: 2rem;
-          transition: background-color .25s;
-          cursor: pointer;
-          span{
-            text-transform: uppercase;
-          }
-          &:hover{
-          background-color: red;
-          }
-        }
+      color: $white;
   }
 }
 
@@ -188,6 +176,16 @@ html{
 
 .game_intro{
 	height: 100vh;
+  background-image: url('http://politic365.com/wp-content/blogs.dir/1/files/2013/01/civil-rights-march.jpg');
+  &:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.3);
+  }
 }
 
 .game_intro.slide_up{
@@ -196,53 +194,62 @@ html{
 }
 
 .start_overlay{
-   		display: flex;
-   		height: 100%;
-   		.overlay_block{
-   			width: 100%;
-   			height: auto;
-   			margin: auto;
-   			text-align: center;
-   			color: black;
-   			.overlay_game_title{
-   				// font-family: @fontFamilySatisfy;
-   				font-size: 8rem;
-   				margin-bottom: 2rem;
-   			}
-   			.overlay_text_block{
-   				margin-bottom: 3rem;
-   				.overlay_text{
-   					// font-family: @fontFamilyOswalt;
-   					font-size: 5rem;
-   				}	
-   			}
-   			
-   			.start_button{
-   				background-color: orange;
-   				padding: 1rem;
-   				width: 50%;
-   				margin: 0 auto;
-   				border: 1px solid grey;
-   				border-radius: 2rem;
-   				transition: background-color .25s;
-   				cursor: pointer;
-   				span{
-   					text-transform: uppercase;
-   				}
-   				&:hover{
-					background-color: red;
-   				}
-   			}
-   		}
-   	}
+    display: flex;
+    height: 100%;
+    .overlay_block{
+        width: 100%;
+        height: auto;
+        margin: auto;
+        text-align: center;
+        color: $white;
+        z-index: 1;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+        .overlay_game_title{
 
+            font-size: 5rem;
+            margin-bottom: 2rem;
+        }
+        .overlay_text_block{
+            margin-bottom: 3rem;
+            .overlay_text{
+
+                font-size: 2rem;
+            }	
+        }
+
+    }
+}
+.play_again,
+.start_button{
+    background-color: $orange;
+    padding: 1rem;
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid $orangeDark;
+    border-radius: 2rem;
+    transition: background-color .25s;
+    cursor: pointer;
+    box-shadow: 0px 5px 0px $orangeDark;
+    position: relative;
+    top: 0px;
+    transition: all ease 0.3s;
+    text-align: center;
+    span{
+        text-transform: uppercase;
+    }
+    &:active {
+        box-shadow: 0 3px 0 $orangeDark;
+        top: 3px;
+    }
+}
 
 .game_wrapper{
 	height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 #memory_board{
-	// background:@lightGrey;
 	border:#999 1px solid;
 	width: 800px;
 	padding: 24px;
@@ -250,8 +257,10 @@ html{
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-evenly;
-	> div{
-		background: $green;
+  position: relative;
+  perspective: 800px;
+  background-image: url('http://i.stack.imgur.com/q02th.jpg');
+	.card{
 		border: #000 1px solid;
 		width: 150px;
 		height: 250px;
@@ -270,6 +279,7 @@ html{
 		color: $white;
 		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 		backface-visibility: hidden;
+        position: relative;
 	}
 }
 .bio_wrapper{
@@ -291,6 +301,31 @@ html{
 	right: 0;
 	top: -10rem;
 }
+
+.flipper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    .front, .back{
+      height: 100%;
+    }
+}
+
+.back {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    span{
+      margin-bottom: 1rem;
+    }
+}
+
+
 
 
 

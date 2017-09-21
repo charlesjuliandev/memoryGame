@@ -294,6 +294,7 @@ function newBoard() {
   var output = '';
   _.each(memory_array, function(memory_array_value, index) {
     output += '<div id="tile_'+ index +'" data-cardFront='+ memory_array_value.cardFront + ' data-img='+ memory_array_value.image + '  data-link='+ memory_array_value.link + ' data-bio="'+ memory_array_value.bio +'"  onclick="memoryFlipTile(this,\''+ memory_array_value.title +'\')" class="card"></div>';
+    
     var cardFront = output[index];
   });
 
