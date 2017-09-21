@@ -3,84 +3,84 @@ var memory_array_men = [
 	{
 		"title": "James Baldwin",
 		"image": "./images/jamesbaldwin.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "James Baldwin",
 		"image": "./images/jamesbaldwin.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "Langston Hughes",
-		"image": "./images/langstonhughes.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3N1hrRklVakZQS0k/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Langston Hughes",
-		"image": "./images/langstonhughes.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3N1hrRklVakZQS0k/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Jack Johnson",
-		"image": "./images/jackjohnson.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3OWFYZWFXeXFxdXc/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "Jack Johnson",
-		"image": "./images/jackjohnson.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3OWFYZWFXeXFxdXc/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "W.E.B. Dubois",
-		"image": "./images/webdubois.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3eUstc2ZzX256bkk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "W.E.B. Dubois",
-		"image": "./images/webdubois.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3eUstc2ZzX256bkk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
-		"image": "./images/toussaintlouverture.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3QjhsQ3V0Q1h4d3M/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
-		"image": "./images/toussaintlouverture.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3QjhsQ3V0Q1h4d3M/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Benjamin Banneker",
-		"image": "./images/benjaminbanneker.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UWpHSy1vVFh0NFE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
 	{
 		"title": "Benjamin Banneker",
-		"image": "./images/benjaminbanneker.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UWpHSy1vVFh0NFE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
@@ -90,50 +90,50 @@ var memory_array_men2 = [
 	
 	{
 		"title": "Marcus Garvey",
-		"image": "./images/marcusgarvey.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3SEwyVXRWVkVtSzA/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Marcus Garvey was a leader of a mass movement called Pan-Africanism and he founded the Universal Negro Improvement Association and African Communities.",
 		"link": "https://en.wikipedia.org/wiki/Marcus_Garvey"
 	},
 	{
 		"title": "Marcus Garvey",
-		"image": "./images/marcusgarvey.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3SEwyVXRWVkVtSzA/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Marcus Garvey was a leader of a mass movement called Pan-Africanism and he founded the Universal Negro Improvement Association and African Communities.",
 		"link": "https://en.wikipedia.org/wiki/Marcus_Garvey"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "./images/robertsmalls.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3NHpFYjJZZ0hUUVE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Robert Smalls was an enslaved African American who, during and after the American Civil War, gained freedom and became a ship's pilot, sea captain, and politician.",
 		"link": "https://en.wikipedia.org/wiki/Robert_Smalls"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "./images/robertsmalls.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3NHpFYjJZZ0hUUVE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Robert Smalls was an enslaved African American who, during and after the American Civil War, gained freedom and became a ship's pilot, sea captain, and politician.",
 		"link": "https://en.wikipedia.org/wiki/Robert_Smalls"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "./images/georgewashintoncarver.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3MzlIc3BTdkxOWlE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "George Washington Carver was an American botanist and inventor. Carver's reputation is largely based on his promotion of alternative crops to cotton, such as peanuts and sweet potatoes.",
 		"link": "https://en.wikipedia.org/wiki/George_Washington_Carver"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "./images/georgewashintoncarver.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3MzlIc3BTdkxOWlE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "George Washington Carver was an American botanist and inventor. Carver's reputation is largely based on his promotion of alternative crops to cotton, such as peanuts and sweet potatoes.",
 		"link": "https://en.wikipedia.org/wiki/George_Washington_Carver"
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "./images/frederickdouglass.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3Ylo2RTl6NlJTbmc/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Frederick Douglass was an African-American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his dazzling oratory and incisive antislavery writings.",
 		"link": "https://en.wikipedia.org/wiki/Frederick_Douglass"
 
@@ -141,30 +141,30 @@ var memory_array_men2 = [
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "./images/frederickdouglass.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3Ylo2RTl6NlJTbmc/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Frederick Douglass was an African-American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his dazzling oratory and incisive antislavery writings.",
 		"link": "https://en.wikipedia.org/wiki/Frederick_Douglass"
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "./images/crispusattucks.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3dDBhVDNKM1ZrSVk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Crispus Attucks was the first person killed in the Boston massacre, in Boston, Massachusetts, and is widely referred to as the first American killed in the American Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Crispus_Attucks"
 
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "./images/crispusattucks.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3dDBhVDNKM1ZrSVk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Crispus Attucks was the first person killed in the Boston massacre, in Boston, Massachusetts, and is widely referred to as the first American killed in the American Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Crispus_Attucks"
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "./images/cartergwoodson.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UUEySnktRmxUclk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Carter Godwin Woodson was an African-American historian, author, journalist and the founder of the Association for the Study of African American Life and History. Woodson was one of the first scholars to study African-American history.",
 		"link": "https://en.wikipedia.org/wiki/Carter_G._Woodson"
 
@@ -172,8 +172,8 @@ var memory_array_men2 = [
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "./images/cartergwoodson.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UUEySnktRmxUclk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Carter Godwin Woodson was an African-American historian, author, journalist and the founder of the Association for the Study of African American Life and History. Woodson was one of the first scholars to study African-American history.",
 		"link": "https://en.wikipedia.org/wiki/Carter_G._Woodson"
 	},
@@ -181,86 +181,86 @@ var memory_array_men2 = [
 var memory_array_women = [
 	{
 		"title": "Madam CJ Walker",
-		"image": "./images/madamcjwalker.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3M2RMT2dTbExvbXM/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Madam C. J. Walker was an African American entrepreneur, philanthropist, and a political and social activist. She was the first female self-made millionaire in America.",
 		"link": "https://en.wikipedia.org/wiki/Madam_C._J._Walker"
 	},
 	{
 		"title": "Madam CJ Walker",
-		"image": "./images/madamcjwalker.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3M2RMT2dTbExvbXM/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Madam C. J. Walker was an African American entrepreneur, philanthropist, and a political and social activist. She was the first female self-made millionaire in America.",
 		"link": "https://en.wikipedia.org/wiki/Madam_C._J._Walker"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "./images/sojournertruth.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cHhvY1pXN1duUzQ/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. After going to court to recover her son, in 1828 she became the first black woman to win such a case against a white man.",
 		"link": "https://en.wikipedia.org/wiki/Sojourner_Truth"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "./images/sojournertruth.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cHhvY1pXN1duUzQ/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. After going to court to recover her son, in 1828 she became the first black woman to win such a case against a white man.",
 		"link": "https://en.wikipedia.org/wiki/Sojourner_Truth"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "./images/maryannshaddcary.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3bXNnbi16S2RQSVk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Mary Ann Shadd Cary was an American-Canadian anti-slavery activist, journalist, publisher, teacher and lawyer. She was the first black woman publisher in North America and the first woman publisher in Canada.",
 		"link": "https://en.wikipedia.org/wiki/Mary_Ann_Shadd"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "./images/maryannshaddcary.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3bXNnbi16S2RQSVk/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Mary Ann Shadd Cary was an American-Canadian anti-slavery activist, journalist, publisher, teacher and lawyer. She was the first black woman publisher in North America and the first woman publisher in Canada.",
 		"link": "https://en.wikipedia.org/wiki/Mary_Ann_Shadd"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "./images/zoranealhurston.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3VGY4V1pReEt3d2s/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Zora Neale Hurston was an African-American novelist, short story writer, folklorist, and anthropologist known for her contributions to African-American literature, her portrayal of racial struggles in the American South, and works documenting her research on Haitian voodoo.",
 		"link": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "./images/zoranealhurston.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3VGY4V1pReEt3d2s/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Zora Neale Hurston was an African-American novelist, short story writer, folklorist, and anthropologist known for her contributions to African-American literature, her portrayal of racial struggles in the American South, and works documenting her research on Haitian voodoo.",
 		"link": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "./images/shirleychisholm.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3XzRCeWExUVdMREE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th Congressional District for seven terms from 1969 to 1983.",
 		"link": "https://en.wikipedia.org/wiki/Shirley_Chisholm"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "./images/shirleychisholm.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3XzRCeWExUVdMREE/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th Congressional District for seven terms from 1969 to 1983.",
 		"link": "https://en.wikipedia.org/wiki/Shirley_Chisholm"
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "./images/bessiecoleman.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cGxETWlMR0d0bms/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Bessie Coleman was the first woman of African-American descent, and the first of Native American descent, to hold a pilot license.",
 		"link": "https://en.wikipedia.org/wiki/Bessie_Coleman"
 
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "./images/bessiecoleman.jpg",
-		"cardFront": "./images/card-front.jpg",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cGxETWlMR0d0bms/view?usp=sharing",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"bio": "Bessie Coleman was the first woman of African-American descent, and the first of Native American descent, to hold a pilot license.",
 		"link": "https://en.wikipedia.org/wiki/Bessie_Coleman"
 
@@ -271,86 +271,86 @@ var memory_array_women2 = [
 	
 	{
 		"title": "Kathleen Cleaver",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"image": "./images/kathleencleaver.jpg",
 		"bio": "Kathleen Neal Cleaver is an American professor of law, known for her involvement with the Black Panther Party.",
 		"link": "https://en.wikipedia.org/wiki/Kathleen_Cleaver"
 	},
 	{
 		"title": "Kathleen Cleaver",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
 		"image": "./images/kathleencleaver.jpg",
 		"bio": "Kathleen Neal Cleaver is an American professor of law, known for her involvement with the Black Panther Party.",
 		"link": "https://en.wikipedia.org/wiki/Kathleen_Cleaver"
 	},
 	{
 		"title": "Angela Davis",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/angeladavis.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3X3RFNzVUNlJVZ0E/view?usp=sharing",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Angela Davis",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/angeladavis.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3X3RFNzVUNlJVZ0E/view?usp=sharing",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Katherine Johnson",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3TGIwUjBHX0x0Y0k/view?usp=sharing",
 		"image": "./images/katherinejohnson.jpg",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Katherine Johnson",
-		"cardFront": "./images/card-front.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3TGIwUjBHX0x0Y0k/view?usp=sharing",
 		"image": "./images/katherinejohnson.jpg",
 		"bio": "Katherine Johnson is an African-American physicist and mathematician who made contributions to the United States' aeronautics and space programs with the early application of digital electronic computers at NASA.",
 		"link": "https://en.wikipedia.org/wiki/Katherine_Johnson"
 	},
 	{
 		"title": "Henrietta Lacks",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/henriettalacks.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RjdRQVZveG1GY2M/view?usp=sharing",
 		"bio": "Henrietta Lacks was an African American woman whose cancer cells were the source of the HeLa cell line, the first immortalized cell line and one of the most important cell lines in medical research.",
 		"link": "https://en.wikipedia.org/wiki/Henrietta_Lacks"
 	},
 	{
 		"title": "Henrietta Lacks",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/henriettalacks.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RjdRQVZveG1GY2M/view?usp=sharing",
 		"bio": "Henrietta Lacks was an African American woman whose cancer cells were the source of the HeLa cell line, the first immortalized cell line and one of the most important cell lines in medical research.",
 		"link": "https://en.wikipedia.org/wiki/Henrietta_Lacks"
 	},
 	{
 		"title": "Harriet Tubman",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/harriettubman.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UkFjS2cwVDJfZnM/view?usp=sharing",
 		"bio": "Harriet Tubman was an American abolitionist, humanitarian, and an armed scout and spy for the United States Army during the American Civil War. Born into slavery, Tubman escaped and subsequently made some thirteen missions to rescue approximately seventy enslaved people, family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.",
 		"link": "https://en.wikipedia.org/wiki/Harriet_Tubman"
 
 	},
 	{
 		"title": "Harriet Tubman",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/harriettubman.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UkFjS2cwVDJfZnM/view?usp=sharing",
 		"bio": "Harriet Tubman was an American abolitionist, humanitarian, and an armed scout and spy for the United States Army during the American Civil War. Born into slavery, Tubman escaped and subsequently made some thirteen missions to rescue approximately seventy enslaved people, family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.",
 		"link": "https://en.wikipedia.org/wiki/Harriet_Tubman"
 	},
 	{
 		"title": "Ida B Wells",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/idabwells.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RzY5UExtcjVwTWM/view?usp=sharing",
 		"bio": "Ida B. Wells, was an African-American journalist, newspaper editor, suffragist, sociologist, feminist, Georgist, and an early leader in the Civil Rights Movement. She was one of the founders of the National Association for the Advancement of Colored People in 1909.",
 		"link": "https://en.wikipedia.org/wiki/Ida_B._Wells"
 	},
 	{
 		"title": "Ida B Wells",
-		"cardFront": "./images/card-front.jpg",
-		"image": "./images/idabwells.jpg",
+		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RzY5UExtcjVwTWM/view?usp=sharing",
 		"bio": "Ida B. Wells, was an African-American journalist, newspaper editor, suffragist, sociologist, feminist, Georgist, and an early leader in the Civil Rights Movement. She was one of the founders of the National Association for the Advancement of Colored People in 1909.",
 		"link": "https://en.wikipedia.org/wiki/Ida_B._Wells"
 	}
