@@ -102,6 +102,12 @@ $box-shadow2: ();
       color: $white;
   }
 }
+.game_over{
+    position:fixed;
+}
+.game_on{
+    position: relative;
+}
 
 .pyro > .before, .pyro > .after {
   position: absolute;
@@ -176,7 +182,7 @@ html{
 
 .game_intro{
 	height: 100vh;
-  background-image: url('https://drive.google.com/file/d/0B5gjWdl8XAT3b0JSTzJRRHpqOEk/view?usp=sharing');
+  background-image: url('/wp-content/themes/charlesjulian/portfolio/memoryGame/images/civil-rights-march.jpg');
   &:before{
     content: "";
     position: absolute;
@@ -259,7 +265,7 @@ html{
 	justify-content: space-evenly;
   position: relative;
   perspective: 800px;
-  background-image: url('http://i.stack.imgur.com/q02th.jpg');
+  background-image: url('/wp-content/themes/charlesjulian/portfolio/memoryGame/images/board-background.jpg');
 	.card{
 		border: #000 1px solid;
 		width: 150px;

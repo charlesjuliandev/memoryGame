@@ -2,85 +2,85 @@
 var memory_array_men = [
 	{
 		"title": "James Baldwin",
-		"image": "./images/jamesbaldwin.jpg",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/jamesbaldwin.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "James Baldwin",
-		"image": "./images/jamesbaldwin.jpg",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/jamesbaldwin.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "James Baldwin was an American writer and social critic. His essays, as collected in Notes of a Native Son, explore palpable yet unspoken intricacies of racial, sexual, and class distinctions in Western societies, most notably in mid-20th-century America.",
 		"link": "https://en.wikipedia.org/wiki/James_Baldwin"
 	},
 	{
 		"title": "Langston Hughes",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3N1hrRklVakZQS0k/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/langstonhughes.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Langston Hughes",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3N1hrRklVakZQS0k/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/langstonhughes.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Langston Hughes was an important figure in the Harlem Renaissance and made the African American experience the subject of his writings, which ranged from poetry and plays to novels and newspaper columns.",
 		"link": "https://en.wikipedia.org/wiki/Langston_Hughes"
 	},
 	{
 		"title": "Jack Johnson",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3OWFYZWFXeXFxdXc/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/jackjohnson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "Jack Johnson",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3OWFYZWFXeXFxdXc/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/jackjohnson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "John Johnson became the first African American world heavyweight boxing champion.",
 		"link": "https://en.wikipedia.org/wiki/Jack_Johnson_(boxer)"
 	},
 	{
 		"title": "W.E.B. Dubois",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3eUstc2ZzX256bkk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/webdubois.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "W.E.B. Dubois",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3eUstc2ZzX256bkk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/webdubois.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "W. E. B. Du Bois was an American sociologist, historian, civil rights activist, Pan-Africanist, author, writer and editor.",
 		"link": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3QjhsQ3V0Q1h4d3M/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/toussaintlouverture.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Toussaint L\\'Ouverture",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3QjhsQ3V0Q1h4d3M/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/toussaintlouverture.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture was the best-known leader of the Haitian Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
 	},
 	{
 		"title": "Benjamin Banneker",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UWpHSy1vVFh0NFE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/benjaminbanneker.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
 	{
 		"title": "Benjamin Banneker",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UWpHSy1vVFh0NFE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/benjaminbanneker.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Benjamin Banneker was an almanac author, surveyor, naturalist, and farmer.",
 		"link": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
 	},
@@ -90,50 +90,50 @@ var memory_array_men2 = [
 	
 	{
 		"title": "Marcus Garvey",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3SEwyVXRWVkVtSzA/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/marcusgarvey.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Marcus Garvey was a leader of a mass movement called Pan-Africanism and he founded the Universal Negro Improvement Association and African Communities.",
 		"link": "https://en.wikipedia.org/wiki/Marcus_Garvey"
 	},
 	{
 		"title": "Marcus Garvey",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3SEwyVXRWVkVtSzA/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/marcusgarvey.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Marcus Garvey was a leader of a mass movement called Pan-Africanism and he founded the Universal Negro Improvement Association and African Communities.",
 		"link": "https://en.wikipedia.org/wiki/Marcus_Garvey"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3NHpFYjJZZ0hUUVE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/robertsmalls.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Robert Smalls was an enslaved African American who, during and after the American Civil War, gained freedom and became a ship's pilot, sea captain, and politician.",
 		"link": "https://en.wikipedia.org/wiki/Robert_Smalls"
 	},
 	{
 		"title": "Robert Smalls",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3NHpFYjJZZ0hUUVE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/robertsmalls.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Robert Smalls was an enslaved African American who, during and after the American Civil War, gained freedom and became a ship's pilot, sea captain, and politician.",
 		"link": "https://en.wikipedia.org/wiki/Robert_Smalls"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3MzlIc3BTdkxOWlE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/georgewashintoncarver.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "George Washington Carver was an American botanist and inventor. Carver's reputation is largely based on his promotion of alternative crops to cotton, such as peanuts and sweet potatoes.",
 		"link": "https://en.wikipedia.org/wiki/George_Washington_Carver"
 	},
 	{
 		"title": "George Washington Carver",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3MzlIc3BTdkxOWlE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/georgewashintoncarver.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "George Washington Carver was an American botanist and inventor. Carver's reputation is largely based on his promotion of alternative crops to cotton, such as peanuts and sweet potatoes.",
 		"link": "https://en.wikipedia.org/wiki/George_Washington_Carver"
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3Ylo2RTl6NlJTbmc/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/frederickdouglass.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Frederick Douglass was an African-American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his dazzling oratory and incisive antislavery writings.",
 		"link": "https://en.wikipedia.org/wiki/Frederick_Douglass"
 
@@ -141,30 +141,30 @@ var memory_array_men2 = [
 	},
 	{
 		"title": "Frederick Douglass",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3Ylo2RTl6NlJTbmc/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/frederickdouglass.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Frederick Douglass was an African-American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his dazzling oratory and incisive antislavery writings.",
 		"link": "https://en.wikipedia.org/wiki/Frederick_Douglass"
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3dDBhVDNKM1ZrSVk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/crispusattucks.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Crispus Attucks was the first person killed in the Boston massacre, in Boston, Massachusetts, and is widely referred to as the first American killed in the American Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Crispus_Attucks"
 
 	},
 	{
 		"title": "Crispus Attucks",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3dDBhVDNKM1ZrSVk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/crispusattucks.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Crispus Attucks was the first person killed in the Boston massacre, in Boston, Massachusetts, and is widely referred to as the first American killed in the American Revolution.",
 		"link": "https://en.wikipedia.org/wiki/Crispus_Attucks"
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UUEySnktRmxUclk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/cartergwoodson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Carter Godwin Woodson was an African-American historian, author, journalist and the founder of the Association for the Study of African American Life and History. Woodson was one of the first scholars to study African-American history.",
 		"link": "https://en.wikipedia.org/wiki/Carter_G._Woodson"
 
@@ -172,8 +172,8 @@ var memory_array_men2 = [
 	},
 	{
 		"title": "Carter G Woodson",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UUEySnktRmxUclk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/cartergwoodson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Carter Godwin Woodson was an African-American historian, author, journalist and the founder of the Association for the Study of African American Life and History. Woodson was one of the first scholars to study African-American history.",
 		"link": "https://en.wikipedia.org/wiki/Carter_G._Woodson"
 	},
@@ -181,86 +181,86 @@ var memory_array_men2 = [
 var memory_array_women = [
 	{
 		"title": "Madam CJ Walker",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3M2RMT2dTbExvbXM/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/madamcjwalker.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Madam C. J. Walker was an African American entrepreneur, philanthropist, and a political and social activist. She was the first female self-made millionaire in America.",
 		"link": "https://en.wikipedia.org/wiki/Madam_C._J._Walker"
 	},
 	{
 		"title": "Madam CJ Walker",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3M2RMT2dTbExvbXM/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/madamcjwalker.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Madam C. J. Walker was an African American entrepreneur, philanthropist, and a political and social activist. She was the first female self-made millionaire in America.",
 		"link": "https://en.wikipedia.org/wiki/Madam_C._J._Walker"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cHhvY1pXN1duUzQ/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/sojournertruth.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. After going to court to recover her son, in 1828 she became the first black woman to win such a case against a white man.",
 		"link": "https://en.wikipedia.org/wiki/Sojourner_Truth"
 	},
 	{
 		"title": "Sojouner Truth",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cHhvY1pXN1duUzQ/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/sojournertruth.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. After going to court to recover her son, in 1828 she became the first black woman to win such a case against a white man.",
 		"link": "https://en.wikipedia.org/wiki/Sojourner_Truth"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3bXNnbi16S2RQSVk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/maryannshaddcary.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Mary Ann Shadd Cary was an American-Canadian anti-slavery activist, journalist, publisher, teacher and lawyer. She was the first black woman publisher in North America and the first woman publisher in Canada.",
 		"link": "https://en.wikipedia.org/wiki/Mary_Ann_Shadd"
 	},
 	{
 		"title": "Mary Ann Shadd Cary",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3bXNnbi16S2RQSVk/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/maryannshaddcary.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Mary Ann Shadd Cary was an American-Canadian anti-slavery activist, journalist, publisher, teacher and lawyer. She was the first black woman publisher in North America and the first woman publisher in Canada.",
 		"link": "https://en.wikipedia.org/wiki/Mary_Ann_Shadd"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3VGY4V1pReEt3d2s/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/zoranealhurston.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Zora Neale Hurston was an African-American novelist, short story writer, folklorist, and anthropologist known for her contributions to African-American literature, her portrayal of racial struggles in the American South, and works documenting her research on Haitian voodoo.",
 		"link": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
 	},
 	{
 		"title": "Zora Neal Hurston",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3VGY4V1pReEt3d2s/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/zoranealhurston.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Zora Neale Hurston was an African-American novelist, short story writer, folklorist, and anthropologist known for her contributions to African-American literature, her portrayal of racial struggles in the American South, and works documenting her research on Haitian voodoo.",
 		"link": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3XzRCeWExUVdMREE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/shirleychisholm.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th Congressional District for seven terms from 1969 to 1983.",
 		"link": "https://en.wikipedia.org/wiki/Shirley_Chisholm"
 	},
 	{
 		"title": "Shirley Chisholm",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3XzRCeWExUVdMREE/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/shirleychisholm.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th Congressional District for seven terms from 1969 to 1983.",
 		"link": "https://en.wikipedia.org/wiki/Shirley_Chisholm"
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cGxETWlMR0d0bms/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/bessiecoleman.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Bessie Coleman was the first woman of African-American descent, and the first of Native American descent, to hold a pilot license.",
 		"link": "https://en.wikipedia.org/wiki/Bessie_Coleman"
 
 	},
 	{
 		"title": "Bessie Coleman",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3cGxETWlMR0d0bms/view?usp=sharing",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/bessiecoleman.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Bessie Coleman was the first woman of African-American descent, and the first of Native American descent, to hold a pilot license.",
 		"link": "https://en.wikipedia.org/wiki/Bessie_Coleman"
 
@@ -271,86 +271,86 @@ var memory_array_women2 = [
 	
 	{
 		"title": "Kathleen Cleaver",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "./images/kathleencleaver.jpg",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/kathleencleaver.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Kathleen Neal Cleaver is an American professor of law, known for her involvement with the Black Panther Party.",
 		"link": "https://en.wikipedia.org/wiki/Kathleen_Cleaver"
 	},
 	{
 		"title": "Kathleen Cleaver",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "./images/kathleencleaver.jpg",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/kathleencleaver.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Kathleen Neal Cleaver is an American professor of law, known for her involvement with the Black Panther Party.",
 		"link": "https://en.wikipedia.org/wiki/Kathleen_Cleaver"
 	},
 	{
 		"title": "Angela Davis",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3X3RFNzVUNlJVZ0E/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/angeladavis.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Angela Davis",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3X3RFNzVUNlJVZ0E/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/angeladavis.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Katherine Johnson",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3TGIwUjBHX0x0Y0k/view?usp=sharing",
-		"image": "./images/katherinejohnson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/katherinejohnson.jpg",
 		"bio": "Angela Davis is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s.",
 		"link": "https://en.wikipedia.org/wiki/Angela_Davis"
 	},
 	{
 		"title": "Katherine Johnson",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3TGIwUjBHX0x0Y0k/view?usp=sharing",
-		"image": "./images/katherinejohnson.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/katherinejohnson.jpg",
 		"bio": "Katherine Johnson is an African-American physicist and mathematician who made contributions to the United States' aeronautics and space programs with the early application of digital electronic computers at NASA.",
 		"link": "https://en.wikipedia.org/wiki/Katherine_Johnson"
 	},
 	{
 		"title": "Henrietta Lacks",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RjdRQVZveG1GY2M/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/henriettalacks.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Henrietta Lacks was an African American woman whose cancer cells were the source of the HeLa cell line, the first immortalized cell line and one of the most important cell lines in medical research.",
 		"link": "https://en.wikipedia.org/wiki/Henrietta_Lacks"
 	},
 	{
 		"title": "Henrietta Lacks",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RjdRQVZveG1GY2M/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/henriettalacks.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Henrietta Lacks was an African American woman whose cancer cells were the source of the HeLa cell line, the first immortalized cell line and one of the most important cell lines in medical research.",
 		"link": "https://en.wikipedia.org/wiki/Henrietta_Lacks"
 	},
 	{
 		"title": "Harriet Tubman",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UkFjS2cwVDJfZnM/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/harriettubman.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Harriet Tubman was an American abolitionist, humanitarian, and an armed scout and spy for the United States Army during the American Civil War. Born into slavery, Tubman escaped and subsequently made some thirteen missions to rescue approximately seventy enslaved people, family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.",
 		"link": "https://en.wikipedia.org/wiki/Harriet_Tubman"
 
 	},
 	{
 		"title": "Harriet Tubman",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3UkFjS2cwVDJfZnM/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/harriettubman.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Harriet Tubman was an American abolitionist, humanitarian, and an armed scout and spy for the United States Army during the American Civil War. Born into slavery, Tubman escaped and subsequently made some thirteen missions to rescue approximately seventy enslaved people, family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.",
 		"link": "https://en.wikipedia.org/wiki/Harriet_Tubman"
 	},
 	{
 		"title": "Ida B Wells",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RzY5UExtcjVwTWM/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/idabwells.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Ida B. Wells, was an African-American journalist, newspaper editor, suffragist, sociologist, feminist, Georgist, and an early leader in the Civil Rights Movement. She was one of the founders of the National Association for the Advancement of Colored People in 1909.",
 		"link": "https://en.wikipedia.org/wiki/Ida_B._Wells"
 	},
 	{
 		"title": "Ida B Wells",
-		"cardFront": "https://drive.google.com/file/d/0B5gjWdl8XAT3b2FMOWh6dThPblE/view?usp=sharing",
-		"image": "https://drive.google.com/file/d/0B5gjWdl8XAT3RzY5UExtcjVwTWM/view?usp=sharing",
+		"image": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/idabwells.jpg",
+		"cardFront": "/wp-content/themes/charlesjulian/portfolio/memoryGame/images/card-front-blank.jpg",
 		"bio": "Ida B. Wells, was an African-American journalist, newspaper editor, suffragist, sociologist, feminist, Georgist, and an early leader in the Civil Rights Movement. She was one of the founders of the National Association for the Advancement of Colored People in 1909.",
 		"link": "https://en.wikipedia.org/wiki/Ida_B._Wells"
 	}
@@ -362,35 +362,53 @@ var memory_tile_ids = [];
 var tiles_flipped = 0;
 
 var card_array = [memory_array_men, memory_array_men2, memory_array_women, memory_array_women2];
+var number_array = [];
 for (var i = 0; i < card_array.length; i++) {
-	
-	var random_number = Math.floor(Math.random() * card_array.length);
-	var shuffled_cards = card_array[random_number];
-	var memory_array = shuffled_cards;
-
-
+	number_array.push(i);
 }
+
+var shuffled_card_array = _.shuffle(number_array);
+
+var randorder = _.shuffle(number_array);
+var card_counter = 0;
+randorder[card_counter++]
+var memory_array;
+
+function shuffleCards(){
+
+	var this_card_game = shuffled_card_array.pop()
+
+	if (typeof this_card_game !== "undefined") {
+		return this_card_game;
+	} else {
+		shuffled_card_array = _.shuffle(number_array);
+		this_card_game = shuffled_card_array.pop();
+		return this_card_game
+
+	}
+	
+}
+
+
 
 function newBoard() {
 	tiles_flipped = 0;
   var output = '';
-  memory_array = _.shuffle(memory_array)
+  memory_array = card_array[shuffleCards()]
+  memory_array = _.shuffle(memory_array);
   _.each(memory_array, function(memory_array_value, index) {
-
+  	console.log(memory_array_value)
     output += '<div id="tile_'+ index +'" class="card" onclick="memoryFlipTile(this,\''+ memory_array_value.title +'\')"><div class="flipper"><div class="front" data-cardFront='+ memory_array_value.cardFront +'></div><div class="back" data-img='+ memory_array_value.image + '  data-link='+ memory_array_value.link + ' data-bio="'+ memory_array_value.bio +'" ></div></div></div>';
 
   });
 
 	document.getElementById('memory_board').innerHTML = output;
-	var cardFront = document.getElementsByClassName('front')
+	var cardFront = document.getElementsByClassName('front');
 	_.each(cardFront, function(value_cardFront, index_cardFront){
-		var cardFrontImage = value_cardFront.getAttribute('data-cardFront')
-		value_cardFront.style.backgroundImage = "url('"+ cardFrontImage+"')"
+		var cardFrontImage = value_cardFront.getAttribute('data-cardFront');
+		value_cardFront.style.backgroundImage = "url('"+ cardFrontImage +"')";
 
-	})
-
-
-	
+	});
 }
 
 function ready(fn) {
@@ -496,10 +514,12 @@ function startNewGame(){
 		document.getElementById('memory_board').innerHTML = "";
 
 		document.getElementsByClassName('you_win')[0].classList.add('displayNone');
+		document.getElementsByClassName('you_win')[0].classList.add('game_on')
+		document.getElementById('memory_board').classList.remove('displayNone')
+
 		newBoard();
 
 	})
-	newBoard();
 }
 
 function gameIsOver() {
@@ -507,6 +527,9 @@ function gameIsOver() {
   // var play_again = confirm ("You Won Play Again?")
   var you_win = document.getElementsByClassName('you_win');
   you_win[0].classList.remove('displayNone')
+  you_win[0].classList.remove('game_over');
+
+  document.getElementById('memory_board').classList.add('displayNone');
   
   startNewGame();
 }
